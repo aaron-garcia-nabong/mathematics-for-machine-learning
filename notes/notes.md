@@ -1,1 +1,1 @@
-# Notes for each chapter
+# Notes
