@@ -4,7 +4,7 @@ Here are some notes I took while reading *Mathematics for Machine Learning* by A
 ## Table of Contents
 ### Part I: Mathematical Foundations
 1. [Introduction and Motivation](./ch1)
-2. [Linear Algebra](./ch2)
+2. [Linear Algebra](./ch2.md)
 3. [Analytic Geometry](./ch3)
 4. [Matrix Decompositions](./ch4)
 5. [Vector Calculus](./ch5)
