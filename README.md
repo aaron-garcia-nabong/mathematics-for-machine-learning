@@ -3,16 +3,16 @@ Here are some notes I took while reading *Mathematics for Machine Learning* by A
 
 ## Table of Contents
 ### Part I: Mathematical Foundations
-1. [Introduction and Motivation](./ch1)
-2. [Linear Algebra](./ch2.md)
-3. [Analytic Geometry](./ch3)
-4. [Matrix Decompositions](./ch4)
-5. [Vector Calculus](./ch5)
-6. [Probability and Distribution](./ch6)
-7. [Continuous Optimization](./ch7)
+1. [Introduction and Motivation](./land/ch1.md)
+2. [Linear Algebra](./land/ch2.md)
+3. [Analytic Geometry](./land/ch3.md)
+4. [Matrix Decompositions](./land/ch4.md)
+5. [Vector Calculus](./land/ch5.md)
+6. [Probability and Distribution](./land/ch6.md)
+7. [Continuous Optimization](./land/ch7.md)
 ### Part II: Central Machine Learning Problems
-8. [When Models Meet Data](./ch8)
-9. [Linear Regression](./ch9)
-10. [Dimensionality Reduction with Principal Component Analysis](./ch10)
-11. [Density Estimation with Gaussian Mixture Models](./ch11)
-12. [Classification with Support Vector Machines](./ch12)
+8. [When Models Meet Data](./land/ch8.md)
+9. [Linear Regression](./land/ch9.md)
+10. [Dimensionality Reduction with Principal Component Analysis](./land/ch10.md)
+11. [Density Estimation with Gaussian Mixture Models](./land/ch11.md)
+12. [Classification with Support Vector Machines](./land/ch12.md)
