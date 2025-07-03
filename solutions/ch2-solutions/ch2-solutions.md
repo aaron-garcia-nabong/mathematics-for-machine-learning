@@ -1,1 +1,1 @@
-# Chapter 2 Solutions
+# Solutions to Exercises in Chapter 2
