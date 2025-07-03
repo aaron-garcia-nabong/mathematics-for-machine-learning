@@ -2,6 +2,7 @@
 Here are some notes I took while reading *Mathematics for Machine Learning* by A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth (Cambridge University Press, [2020](https://mml-book.github.io/)).
 
 ## Table of Contents
+
 ### Part I: Mathematical Foundations
 1. [Introduction and Motivation](./)
 2. [Linear Algebra](./ch2.md)
