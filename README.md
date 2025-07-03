@@ -10,6 +10,7 @@ Here are some notes I took while reading *Mathematics for Machine Learning* by A
 5. [Vector Calculus](./)
 6. [Probability and Distribution](./)
 7. [Continuous Optimization](./)
+
 ### Part II: Central Machine Learning Problems
 8. [When Models Meet Data](./)
 9. [Linear Regression](./)
