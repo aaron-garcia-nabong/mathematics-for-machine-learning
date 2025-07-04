@@ -19,4 +19,4 @@ Here are some notes I took while reading *Mathematics for Machine Learning* by A
 11. Density Estimation with Gaussian Mixture Models
 12. Classification with Support Vector Machines
 
-### [Solutions to exercises](solutions/solutions.md)
+### [Solutions to Exercises](solutions/solutions.md)
