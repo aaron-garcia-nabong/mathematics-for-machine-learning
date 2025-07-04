@@ -3,8 +3,6 @@ Here are some notes I took while reading *Mathematics for Machine Learning* by A
 
 ## Table of Contents
 
-[Solutions to exercises](solutions/solutions.md)
-
 ### Part I: Mathematical Foundations
 1. Introduction and Motivation
 2. Linear Algebra
@@ -20,3 +18,5 @@ Here are some notes I took while reading *Mathematics for Machine Learning* by A
 10. Dimensionality Reduction with Principal Component Analysis
 11. Density Estimation with Gaussian Mixture Models
 12. Classification with Support Vector Machines
+
+### [Solutions to exercises](solutions/solutions.md))
