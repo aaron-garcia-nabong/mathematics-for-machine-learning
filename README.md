@@ -1,6 +1,6 @@
 # Mathematics for Machine Learning
 Here are some notes I am taking while reading *Mathematics for Machine Learning* by A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth (Cambridge University Press, [2020](https://mml-book.github.io/)).
-If you have any comments or find errors in the material, please email me at aaron.garcia.nabong@gmail.com.
+If you have find errors in the material, please email me at aaron.garcia.nabong@gmail.com.
 
 ## Table of Contents
 
