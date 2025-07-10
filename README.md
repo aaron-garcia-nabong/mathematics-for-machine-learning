@@ -5,7 +5,7 @@ If you have find errors in the material, please email me at aaron.garcia.nabong@
 ## Table of Contents
 
 ### Part I: Mathematical Foundations
-[2. Linear Algebra](./notes/ch2-notes/ch2-notes.md)
+2. [Linear Algebra](./notes/ch2-notes/ch2-notes.md)
 3. Analytic Geometry
 4. Matrix Decompositions
 5. Vector Calculus
