@@ -1,2 +1,2 @@
 # Chapter 2 Notes
-+ [Prompts](ch2_prompts.pdf)
++ [Prompts](ch2-prompts.pdf)
