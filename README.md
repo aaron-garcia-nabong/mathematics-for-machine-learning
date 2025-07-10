@@ -6,7 +6,7 @@ If you have find errors in the material, please email me at aaron.garcia.nabong@
 
 ### Part I: Mathematical Foundations
 1. Introduction and Motivation
-2. Linear Algebra
+2. [Linear Algebra](./notes/ch2-notes.md)
 3. Analytic Geometry
 4. Matrix Decompositions
 5. Vector Calculus
